@@ -13,7 +13,7 @@
     "Mihai Bazon <mihai.bazon@gmail.com> (http://lisperator.net/)"
   ],
   "repository": "https://github.com/mishoo/UglifyJS2.git#harmony",
-  "main": "tools/node.js",
+  "main": "tools/exports.js",
   "bin": {
     "uglifyjs": "bin/uglifyjs"
   },
